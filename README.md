@@ -1,7 +1,8 @@
 # TUB_DTW
 
 Only source codes for the function TUB-DTW are uploaded.
-The description of TUB-DTW is shown as below.
+The codes are implemented in C++14.
+Include WarpPath.h and WarpPath.cpp along with TUB-DTW.cpp to use.
 
 
 # Input
